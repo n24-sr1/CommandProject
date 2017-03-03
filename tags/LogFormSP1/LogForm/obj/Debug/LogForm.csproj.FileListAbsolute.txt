@@ -1,0 +1,9 @@
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\obj\Debug\LogForm.csprojResolveAssemblyReference.cache
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\bin\LogForm.dll
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\bin\LogForm.pdb
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\bin\EntityFramework.dll
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\bin\EntityFramework.SqlServer.dll
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\bin\EntityFramework.xml
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\bin\EntityFramework.SqlServer.xml
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\obj\Debug\LogForm.dll
+C:\Users\san4es113\Desktop\asp+bootstrap+codefirst\LogForm\LogForm\obj\Debug\LogForm.pdb
